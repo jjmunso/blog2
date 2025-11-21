@@ -1,0 +1,17 @@
+>Hey there! I’m a baby EMT (about three months in), doing IFT for now. Just wanting some advice.
+We were dispatched to a snf for low hemoglobin. Typical. But when we got there the patient had obvious labored breathing, audible wheezing, RR 38, history of emphysema. She felt like she couldn’t breathe, talking in short sentences. Satting 96% on 4L NC, normal color, warm and dry, but I was worried about her work of breathing, so I put her on an NRB at 10L to be safe. I felt like what she really needed was a neb but I don’t have that so O2 it was.
+For a long transport this would be an ALS upgrade, but we were a few minutes away from the hospital so we decided to load and go. When we got there, they asked how she was satting at the snf, I said 96%. They told me to take her off the high flow to check how she was satting without it. As I did, I heard one of the nurses behind me do a deep sigh and say, “I have no idea why they put her on 10 liters” in the rudest tone. I turned around and just said “Uh… I’d rather give too much than not enough.” She just kind of rolled her eyes and was being super rude to me the rest of the time we were there.
+So was I doing too much or was this just a grumpy nurse? Should I have just kept her on the NC since she was satting okay? My first call dealing with what looked like respiratory distress to me so open to anything I could have done better. Thanks!
+
+First of all, good job reflecting on your practice. That’s a really important part of developing, and this job has a couple of key components to think about. I’m only a student and don’t have the full story, so take everything below with a grain of salt.
+
+Supplemental oxygen is usually indicated when a patient’s SpO2 drops below  around 94%. It’s natural to see someone in obvious respiratory distress and reach for oxygen, especially when you don’t have many other options. My understanding is that oxygen addresses hypoxemia, not the sensation of breathlessness itself (which is not ldirectly inked to oxygen saturation as you might assume).
+
+Patients with COPD (ie emphysema) benefit from a different target range, typically 88-92%. So instead of chasing 94%+, we aim for that window. There are a few physiological reasons behind this that I don’t fully understand yet, but here’s a good article to check out: https://www.anaestheasier.com/why-we-avoid-o2-in-copd/
+That’s probably why the nurse reacted the way she did about the high-flow O2. It feels counterintuitive, but it’s worth digging into the patho if that helps it stick for future calls.
+
+Another interesting factor here is the patient’s low Hb. That reduces oxygen-carrying capacity and can contribute to breathlessness, even if the SpO2 is (Hb well saturated with oxygen, but theres just fewer of them getting around). Not the main issue in this case, but worth keeping in mind or having a squizz at
+
+From the presentation (wheeze, increased rate and effort), what Pt likely needed was bronchodilators, salbutamol and ipratropium depending on your guidelines. Not necessarily a neb, puffers can do the job too. The patho in COPD is more about difficulty ventilating and getting air out, so bronchodilators help more than trying to increase oxygenation at the alveoli.
+
+Given what you had available, you recognised respiratory distress, did what you could, and prioritised transport. goof stuff - sounds like the nurse was just a bit of a cunt about it. 
